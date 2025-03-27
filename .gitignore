@@ -1,0 +1,4 @@
+.env
+ticket_support_db/
+__pycache__/
+*.pyc
