@@ -83,7 +83,7 @@ Open the browser URL that appears (typically `http://localhost:8501`).
 
 ## Demo (Optional)
 
-_(Coming soon)_
+_(https://huggingface.co/spaces/reazul614/AI-Support-Chatbot)
 
 ---
 
